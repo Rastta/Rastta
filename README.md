@@ -2,17 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center" style="font-size:250px">👋 Welcome to My Profile</h1>
 
-![Dart](https://img.shields.io/badge/Dart-280137?style=flat&logo=Dart&logoColor=007ACC)&nbsp;
-
-![Kotlin](https://img.shields.io/badge/Kotlin-280137?style=flat&logo=Kotlin)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
-
-![Unity](https://img.shields.io/badge/-Unity-280137?style=flat&logo=unity)&nbsp;
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-280137?style=flat&logo=visual-studio&logoColor=450c91)
+![Dart](https://img.shields.io/badge/Dart-280137?style=flat&logo=Dart&logoColor=007ACC)&nbsp;![Kotlin](https://img.shields.io/badge/Kotlin-280137?style=flat&logo=Kotlin)&nbsp;![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;![Unity](https://img.shields.io/badge/-Unity-280137?style=flat&logo=unity)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-280137?style=flat&logo=visual-studio&logoColor=450c91)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center" class="d-flex justify-content-center align-items-center">
